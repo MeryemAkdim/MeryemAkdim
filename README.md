@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeryemAkdim
-- 👀 I’m interested in Web Development/Design and Game Development 
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Web Development/Design 
+- 🌱 I’m currently learning ASP.NET 
 - 📫 How to reach me : You can contact with me in my email makdim848@gamil.com
 
 <!---

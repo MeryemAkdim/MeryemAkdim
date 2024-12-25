@@ -23,7 +23,7 @@ I love solving real-world problems through code and working on projects that mak
 ### 🔗 Connect with Me:  
 - **LinkedIn:** [Meryem Akdim](https://www.linkedin.com/in/meryem-akdim)  
 - **GitHub:** [MeryemAkdim](https://github.com/MeryemAkdim)
-- **Portfolio:** [MeryemAkdim](https://github.com/MeryemAkdim](https://www.meryemakdim.com )  
+- **Portfolio:** [MeryemAkdim](https://www.meryemakdim.com)  
 - **Email:** makdim848@gmail.com  
 
 📫 **Let’s Collaborate!**   

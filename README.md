@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | Laravel Specialist | API Enthusiast  
 
-I’m a full-stack web developer with a passion for crafting scalable, efficient, and user-focused applications. I specialize in **Laravel, Vue.js, and AWS**—building solutions that not only solve problems but also create great experiences for users.  
+I’m a full-stack web developer passionate about crafting scalable, efficient, and user-focused applications. I specialize in **Laravel, Vue.js, and AWS**—building solutions that solve problems and create great user experiences.  
 
 🌐 **What I Do:**  
 - Develop and maintain **web apps** across diverse industries  
